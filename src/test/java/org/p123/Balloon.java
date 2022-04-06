@@ -11,6 +11,11 @@ public class Balloon {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void hi3() {
+		// TODO Auto-generated method stub
+
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
